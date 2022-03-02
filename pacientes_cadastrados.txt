@@ -1,0 +1,3 @@
+01	José Pereira Bibiano	01/10/1990	M	SUS	bibiano@bol.com.br josebibi@ig.com.br 	(18)98201-0022 
+02	Murilo Sampaio Barreto	10/01/1980	M	BEM VIVER	pedro@sampaio mumu@terra.com.br 	(53)99810-2321 (55)99789-1135 
+03	Jéssica Lima Duarte	01/09/1978	F	VIVA	acabou@jessica 	(21)98354-7489 (16)98712-5698 

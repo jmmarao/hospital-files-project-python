@@ -1,0 +1,5 @@
+000	João Mateus Marão Domingues	25/02/1993	M	Gastro	UFPEL	jmmarao@gmail.com joao.mateus-@hotmail.com joao.wee@hotmail.com 	(17)3421-4149 (16)98212-7253 (53)98210-0000 
+111	Maria Joaquina Silveira	01/09/1979	F	Neuro	UFSCAR	maria.joaquina@yahoo.com mariajoaq@cade.com joaquina@ifsp.com.br 	(18)3568-0139 (18)97214-3243 (18)98234-1111 
+222	Januário Mercules da Silva	01/05/1989	F	Gastro	IFSP	januario@gmail.com januario.mercules@hotmail.com 	(16)3521-5659 
+555	Marluci Pasquin	30/04/1987	F	Dermatologista	FAMERP	marluci.pasquin@yahoo.com.br marluci@famerp.com.br 	(17)9821-45800 (16)3421-54789 
+333	Gustavo Olivatto	01/03/1990	M	Geriatra	USP	gustavo@usp.edu.br gustavo@gmail.com.br 	(16)9821-65473 (16)3465-32154 

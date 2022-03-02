@@ -1,0 +1,3 @@
+000	01	06/08/2020	13:40	Enxaqueca	Repouso Analgésico Sono 
+111	03	10/06/2020	14:30	Miopia	Óculos Sol 
+222	02	30/05/2020	15:00	Dor de cabeça	Isolamento Anti-gripal Paracetamol 
